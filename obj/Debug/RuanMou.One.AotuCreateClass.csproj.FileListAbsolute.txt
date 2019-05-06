@@ -1,0 +1,10 @@
+F:\Projects\RuanMou\OneZuoYe\RuanMou.One\RuanMou.One.AotuCreateClass\bin\Debug\RuanMou.One.AotuCreateClass.exe.config
+F:\Projects\RuanMou\OneZuoYe\RuanMou.One\RuanMou.One.AotuCreateClass\bin\Debug\RuanMou.One.AotuCreateClass.exe
+F:\Projects\RuanMou\OneZuoYe\RuanMou.One\RuanMou.One.AotuCreateClass\bin\Debug\RuanMou.One.AotuCreateClass.pdb
+F:\Projects\RuanMou\OneZuoYe\RuanMou.One\RuanMou.One.AotuCreateClass\obj\Debug\RuanMou.One.AotuCreateClass.csprojAssemblyReference.cache
+F:\Projects\RuanMou\OneZuoYe\RuanMou.One\RuanMou.One.AotuCreateClass\obj\Debug\RuanMou.One.AotuCreateClass.Form1.resources
+F:\Projects\RuanMou\OneZuoYe\RuanMou.One\RuanMou.One.AotuCreateClass\obj\Debug\RuanMou.One.AotuCreateClass.Properties.Resources.resources
+F:\Projects\RuanMou\OneZuoYe\RuanMou.One\RuanMou.One.AotuCreateClass\obj\Debug\RuanMou.One.AotuCreateClass.csproj.GenerateResource.cache
+F:\Projects\RuanMou\OneZuoYe\RuanMou.One\RuanMou.One.AotuCreateClass\obj\Debug\RuanMou.One.AotuCreateClass.csproj.CoreCompileInputs.cache
+F:\Projects\RuanMou\OneZuoYe\RuanMou.One\RuanMou.One.AotuCreateClass\obj\Debug\RuanMou.One.AotuCreateClass.exe
+F:\Projects\RuanMou\OneZuoYe\RuanMou.One\RuanMou.One.AotuCreateClass\obj\Debug\RuanMou.One.AotuCreateClass.pdb

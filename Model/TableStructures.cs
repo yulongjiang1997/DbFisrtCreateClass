@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RuanMou.One.AotuCreateClass.Model
+namespace AotuCreateClass.Model
 {
     public class TableStructures
     {

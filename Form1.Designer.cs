@@ -1,4 +1,4 @@
-﻿namespace RuanMou.One.AotuCreateClass
+﻿namespace AotuCreateClass
 {
     partial class Form1
     {
